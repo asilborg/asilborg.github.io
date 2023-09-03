@@ -1,0 +1,24 @@
+.lema {
+    color: purple
+}
+
+body {
+    background-color: rgb(163, 122, 122);
+}
+
+.agregado{
+    color:blueviolet
+}
+
+.busqueda{
+    color: lightcoral;
+}
+
+*#experiencia{
+    border-color: yellow;
+}
+
+h2#perfiles{
+    color: gainsboro;
+    
+}
